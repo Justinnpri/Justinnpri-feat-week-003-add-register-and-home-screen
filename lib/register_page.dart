@@ -209,7 +209,7 @@ class _RegisterPageState extends State<RegisterPage> {
                         minimumSize: const Size(double.infinity, 48),
                         backgroundColor: Colors.green,
                       ),
-                      child: const Text("Daftarkan Akun"),
+                      child: const Text("Daftar Akun"),
                     ),
               const SizedBox(height: 12),
 
